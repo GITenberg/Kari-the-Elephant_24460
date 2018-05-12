@@ -1,0 +1,29 @@
+_repo: Kari-the-Elephant_24460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mukerji, Dhan Gopal
+    birthdate: 1890
+    deathdate: 1936
+    gutenberg_agent_id: '25575'
+    url: http://www.gutenberg.org/2009/agents/25575
+    wikipedia: http://en.wikipedia.org/wiki/Dhan_Gopal_Mukerji
+description: A nine-year-old boy raises and trains Kari the elephant, learning about
+  the law of the jungle and the intelligence and the dignity of elephants.
+gutenberg_issued: '2008-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Juvenile literature'
+- !lcsh 'Elephants -- Juvenile literature'
+- !lcc 'QL'
+title: Kari the Elephant
+url: http://www.gutenberg.org/ebooks/24460
